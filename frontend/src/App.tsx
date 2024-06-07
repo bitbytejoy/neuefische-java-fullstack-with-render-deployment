@@ -1,7 +1,7 @@
 function App() {
 
   return (
-      <p>Frontend works! :)</p>
+      <p>Frontend works v2! :)</p>
   )
 }
 

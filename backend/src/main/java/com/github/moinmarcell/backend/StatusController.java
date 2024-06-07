@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class StatusController {
     @GetMapping("/status")
     public String getStatus() {
-        return "I am running";
+        return "I am running v2";
     }
 }
